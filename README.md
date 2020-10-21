@@ -3,11 +3,11 @@
 **Usage:**
 *(all commands create same outcome)*
 ```bash
-you@linuxcomputer:~$ make
+you@linux:~/$ make
 ```
 ```bash
-you@linuxcomputer:~$ make all
+you@linux:~/$ make all
 ```
 ```bash
-you@linuxcomputer:~$ python texter.py
+you@linux:~/$ python texter.py
 ```
